@@ -9,8 +9,7 @@ I am currently focusing on protocols that give the users some control on their m
 
 You can find a list of my pubblications [here](https://dblp.uni-trier.de/pid/216/6219.html).
 
-##### Keywords
-lattice-based cryptography, access control encryption, group signatures, ring signatures, threshold signatures.
+###### Keywords: lattice-based cryptography, access control encryption, group signatures, ring signatures, threshold signatures.
 
 ## Geographic location
 
