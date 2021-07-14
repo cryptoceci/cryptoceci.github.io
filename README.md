@@ -5,7 +5,7 @@ Hello World! I am Cecilia, cryptography researcher and living human being.
 My research focuses on designing cryptographic protocols that are secure even if attacked with a quantum computer, and that can make the (online) world a little more decentralized.
 This includes (but is not limited to) lattice-based privacy-preserving signature schemes, and protocols that give the users some control on their metadata, such as policy-enforcing encryption.
 
-You can find a list of my pubblications [here](./biblio.html).
+You can find an overview of my scientific and divulgative output [here](./biblio.html).
 
 ###### keywords: lattice-based cryptography, access control encryption, group / ring / threshold signatures.
 
