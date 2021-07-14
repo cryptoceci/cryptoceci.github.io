@@ -2,10 +2,8 @@ Hello World! I am Cecilia, cryptography researcher and living human being.
 
 ### Research interests
 
-My research focuses mainly on designing cryptographic protocols that are secure even if attacked with a quantum computer.
-In particular, I like to design lattice-based protocols that can make the (online) world a little more decentralized.
-
-I am currently focusing on protocols that give the users some control on their metadata, in the form of both policy-enforcing encryption and privacy-preserving signature schemes.
+My research focuses on designing cryptographic protocols that are secure even if attacked with a quantum computer, and that can make the (online) world a little more decentralized.
+This includes (but is not limited to) lattice-based privacy-preserving signature schemes, and protocols that give the users some control on their metadata, such as policy-enforcing encryption.
 
 You can find a list of my pubblications [here](https://dblp.uni-trier.de/pid/216/6219.html).
 
