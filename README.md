@@ -1,5 +1,3 @@
-## Welcome to my homepage!
-
 Hello World! I am Cecilia, cryptography researcher and living human being.
 
 ### Research interest
