@@ -2,14 +2,14 @@ Hello World! I am Cecilia, cryptography researcher and living human being.
 
 ## Research interests
 
+###### lattice-based cryptography, access control encryption, group signatures, ring signatures, threshold signatures.
+
 My research focuses mainly on designing cryptographic protocols that are secure even if attacked with a quantum computer.
 In particular, I like to design lattice-based protocols that can make the (online) world a little more decentralized.
 
 I am currently focusing on protocols that give the users some control on their metadata, in the form of both policy-enforcing encryption and privacy-preserving signature schemes.
 
 You can find a list of my pubblications [here](https://dblp.uni-trier.de/pid/216/6219.html).
-
-###### Keywords: lattice-based cryptography, access control encryption, group signatures, ring signatures, threshold signatures.
 
 ## Geographic location
 
