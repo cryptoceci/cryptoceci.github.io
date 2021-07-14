@@ -12,12 +12,12 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.hometitle | default: site.github.repository_name }}</a></h1>
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+    <div class="wrapper">
+      <header>
           <img src="{{site.logo | relative_url}}" alt="image of a happy cryptographer" style="border-radius:30%;" width = "300" />
 
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
