@@ -15,5 +15,5 @@ You can find a list of my pubblications [here](https://dblp.uni-trier.de/pid/216
 
 Currently, I am a PostDoc at the Università della Svizzera Italiana (CH) in the [Cryptography and Quantum Information group](https://cqi.inf.usi.ch/index.php) led by the incomparable Prof. Stefan Wolf.
 
-Previously, I spent 5 years at [IBM Research - Zurich](https://www.zurich.ibm.com/), the research labs with one of the prettiest view in the world.
+Previously, I spent 5 years between [IBM Research - Zurich](https://www.zurich.ibm.com/) and USI, the research labs with one of the prettiest views in the world.
 There I completed my PhD under the supervision of Dr. Jan Camenisch and Prof. Stefan Wolf.
