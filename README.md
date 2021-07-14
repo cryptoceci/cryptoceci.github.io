@@ -2,7 +2,7 @@ Hello World! I am Cecilia, cryptography researcher and living human being.
 
 ## Research interests
 
-###### lattice-based cryptography, access control encryption, group signatures, ring signatures, threshold signatures.
+###### lattice-based cryptography, access control encryption, group / ring / threshold signatures.
 
 My research focuses mainly on designing cryptographic protocols that are secure even if attacked with a quantum computer.
 In particular, I like to design lattice-based protocols that can make the (online) world a little more decentralized.
