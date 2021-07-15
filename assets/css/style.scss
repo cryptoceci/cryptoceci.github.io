@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 /* Buttons */
-.a {
+a {
   background-color: white; 
   /* border-color: hsla(0, 100%, 70%, 0.3); /* baby pink */
   border-radius: 12px;
@@ -13,4 +13,12 @@
   text-decoration: none;
   display: inline-block;
   font-size: 12px;
+}
+
+/* Profile img */
+
+img {
+  border-radius:30%;
+  margin-left: auto;
+  margin-right: auto;
 }
