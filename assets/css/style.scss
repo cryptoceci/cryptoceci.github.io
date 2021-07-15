@@ -5,7 +5,7 @@
 
 /* Buttons */
 .button {
-  background-color: white; 
+  text-color: white; 
   border-color: hsla(0, 100%, 70%, 0.3); /* baby pink */
   border-radius: 12px;
   padding: 10px 10px;
@@ -16,11 +16,11 @@
 }
 
 .button:hover {
-  background-color: white; 
-  color: hsla(0, 100%, 70%, 0.3); /* baby pink */
+  background-color: hsla(0, 100%, 70%, 0.3); /* baby pink */
 }
 
 /* The navigation menu */
 .navbar {
   float: center;
+  padding: 8px;
 }
