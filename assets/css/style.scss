@@ -5,8 +5,8 @@
 
 /* Buttons */
 .button {
-  text-color: white; 
-  border-color: hsla(0, 100%, 70%, 0.3); /* baby pink */
+  beckground-color: white; 
+  /* border-color: hsla(0, 100%, 70%, 0.3); /* baby pink */
   border-radius: 12px;
   padding: 10px 10px;
   text-align: center;
@@ -15,11 +15,7 @@
   font-size: 12px;
 }
 
-.button:hover {
-  background-color: hsla(0, 100%, 70%, 0.3); /* baby pink */
-}
-
 /* The navigation menu */
 .navbar {
-  padding: 10px;
+  padding: 10px 10px;
 }
