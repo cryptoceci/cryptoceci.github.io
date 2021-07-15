@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 /* Buttons */
-.button {
+.li {
   beckground-color: white; 
   /* border-color: hsla(0, 100%, 70%, 0.3); /* baby pink */
   border-radius: 12px;
@@ -13,9 +13,4 @@
   text-decoration: none;
   display: inline-block;
   font-size: 12px;
-}
-
-/* The navigation menu */
-.navbar {
-  padding: 10px 10px;
 }
