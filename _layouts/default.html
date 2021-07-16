@@ -22,7 +22,7 @@
 
         <img class = "profileimg" src="{{site.logo | relative_url}}" alt="image of a happy cryptographer" />
         
-         <ul text-align = "center">
+         <ul>
           <li><a href="." > Home </a></li>
           <li><a href="./biblio.html" > The Science </a></li>
           <li><a href="./other.html" > The Rest </a></li>
@@ -35,7 +35,7 @@
       {{ content }}
 
       </section>
-      <footer height = "20%" background-color = "blue">
+      <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
