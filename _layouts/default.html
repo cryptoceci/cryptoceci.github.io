@@ -22,7 +22,7 @@
 
         <img class = "profileimg" src="{{site.logo | relative_url}}" alt="image of a happy cryptographer" />
         
-         <ul bottom-margin = "1em" text-align = "center">
+         <ul text-align = "center">
           <li><a href="." > Home </a></li>
           <li><a href="./biblio.html" > The Science </a></li>
           <li><a href="./other.html" > The Rest </a></li>
@@ -35,11 +35,11 @@
       {{ content }}
 
       </section>
-      <footer>
+      <footer height = "20%" background-color = "blue">
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        /*<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>*/
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
