@@ -11,8 +11,6 @@ You can find an overview of my scientific and divulgative output [here](./biblio
 
 ### Where to Find Me
 
-<p style="color:Tomato;"> Coming Soon: research visit @ Technion (IL)! </p>
+<p style="color:Tomato;"> I hold a PostDoc position shared between the Technion (IL), where I work with Prof. Yuval Ishai, and the Reichman university, where I am part of the [FACT cecnter](https://www.factcenter.org/) led by Prof. Elette Boyle. </p>
 
-I am a PostDoc at the Università della Svizzera Italiana (CH) in the [Cryptography and Quantum Information group](https://cqi.inf.usi.ch/index.php) led by the incomparable Prof. Stefan Wolf.
-
-Previously, I spent 5 years between [IBM Research - Zurich](https://www.zurich.ibm.com/) and USI, where I completed my PhD under the supervision of Dr. Jan Camenisch and Prof. Stefan Wolf.
+ Previously, I spent many years between [IBM Research - Zurich](https://www.zurich.ibm.com/) and the Università della Svizzera Italiana (CH) in the [Cryptography and Quantum Information group](https://cqi.inf.usi.ch/index.php) led by the incomparable Prof. Stefan Wolf, where I completed my PhD under the supervision of Dr. Jan Camenisch and Prof. Stefan Wolf.
