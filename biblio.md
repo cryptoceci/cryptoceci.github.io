@@ -12,4 +12,6 @@ You can find a list of my pubblications [here](https://dblp.uni-trier.de/pid/216
 
 - Are you interested in post-quantum cryptography but have no time? Check out [this 5 min talk](https://www.youtube.com/watch?v=-kD2ryHMkFA).
 
+- I love designing signatures with fancy features, but they can be very confusing! If you need a high level overview, check out [this post](https://cqi.inf.usi.ch/blog/four.html)!
+
 [back](./)
