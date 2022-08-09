@@ -16,6 +16,6 @@ Cecilia Boschini, Jan Camenisch, Gregory Neven. Floppy-Sized Group Signatures fr
 
 Cecilia Boschini, Jan Camenisch, Gregory Neven. Relaxed Lattice-Based Signatures with Short Zero-Knowledge Proofs. ISC 2018. [ePrint](https://eprint.iacr.org/2017/1123.pdf)
 
-Cecilia Boschini, Emmanuela Orsini, Carlo Traverso. Betweeen Codes and Lattices: Hybrid lattices and the NTWO cryptosystem. MEGA 2015 [ePrint](https://cseao.github.io/papr/MEGA2015.pdf)
+Cecilia Boschini, Emmanuela Orsini, Carlo Traverso. Betweeen Codes and Lattices: Hybrid lattices and the NTWO cryptosystem. MEGA 2015 [full version](https://cseao.github.io/papr/MEGA2015.pdf)
 
 [back](./)
