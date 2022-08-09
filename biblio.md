@@ -6,6 +6,11 @@ layout: default
 
 You can find a list of my pubblications [here](https://dblp.uni-trier.de/pid/216/6219.html).
 
+### Books
+
+I co-wrote a book about Discrete Math! It includes the basics needed in CS: set theory, logics, combinatorics, and graph theory. And, obviously, the cherry on top is the last chapter: an introduction to cryptography ;)
+The e-book version is free, and you can find it [here](https://vdf.ch/discrete-mathematics-e-book.html)
+
 ### Divulgative Writing/Talks
 
 - Are you fed up with WhatsApp, but cannot decide between Signal and Telegram? I wrote a security comparison for non-experts to help you out! You can find it [here](https://cqi.inf.usi.ch/publications/telegram_vs_signal.pdf?_gl=1*1rjmplt*_ga*MjA1MDgyOTM4Ni4xNjI2Mjc1NTUw*_ga_89Y0EEKVWP*MTYyNjI3NTU0OS4xLjEuMTYyNjI3NjA5Ny42MA..).
