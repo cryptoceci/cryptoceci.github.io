@@ -4,7 +4,7 @@ layout: default
 
 ### Scientific papers
 
-You can find a list of my pubblications [here](https://dblp.uni-trier.de/pid/216/6219.html).
+You can find a list of my pubblications [here](./papers.html).
 
 ### Books
 
