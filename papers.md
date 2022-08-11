@@ -6,7 +6,7 @@ layout: default
 
 Cecilia Boschini, Ivan Damgård, Claudio Orlandi. On Access Control Encryption without Sanitization. SCN 2022. [ePrint](https://eprint.iacr.org/2022/854.pdf)
 
-Cecilia Boschini, Akira Takahashi, Mehdi Tibouchi. MuSig-L: Lattice-Based Multi-Signature With Single-Round Online Phase. CRYPTO 2022. [ePrint]()
+Cecilia Boschini, Akira Takahashi, Mehdi Tibouchi. MuSig-L: Lattice-Based Multi-Signature With Single-Round Online Phase. CRYPTO 2022. [ePrint](https://eprint.iacr.org/2022/1036.pdf)
 
 Cecilia Boschini, Dario Fiore, Elena Pagnin. Progressive and Efficient Verification for Digital Signatures. ACNS 2022. [ePrint](https://eprint.iacr.org/2021/832.pdf)
 
