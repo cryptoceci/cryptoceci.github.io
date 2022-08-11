@@ -9,6 +9,7 @@ You can find a list of my pubblications [here](./papers.html).
 ### Books
 
 I co-wrote a book about Discrete Math! It includes the basics needed in CS: set theory, logics, combinatorics, and graph theory. And, obviously, the cherry on top is the last chapter: an introduction to cryptography ;)
+
 The e-book version is free, and you can find it [here](https://vdf.ch/discrete-mathematics-e-book.html)
 
 ### Divulgative Writing/Talks
