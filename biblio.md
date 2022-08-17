@@ -8,13 +8,9 @@ You can find a list of my pubblications [here](./papers.html).
 
 ### Books
 
-I co-wrote a book about Discrete Math! It includes the basics needed in CS: set theory, logics, combinatorics, and graph theory. And, obviously, the cherry on top is the last chapter: an introduction to cryptography. The e-book version is free, check it out!
+- C. Boschini, A. Hansen, S. Wolf. Discrete Mathematics. Verlag der Fachvereine (VdF), Zurich, 2022 ([link](https://vdf.ch/discrete-mathematics-e-book.html)).<br> 
 
-C. Boschini, A. Hansen, S. Wolf. Discrete Mathematics. Verlag der Fachvereine (VdF), Zurich, 2022 ([link](https://vdf.ch/discrete-mathematics-e-book.html)). 
-
-### PhD Thesis
-
-C. Boschini, Lattice-based Protocols for Privacy, 2020 ([link](https://susi.usi.ch/usi/documents/319176))
+- C. Boschini. Lattice-based Protocols for Privacy. PhD thesis, Lugano, 2020 ([link](https://susi.usi.ch/usi/documents/319176)).<br>
 
 ### Divulgative Writing/Talks
 
