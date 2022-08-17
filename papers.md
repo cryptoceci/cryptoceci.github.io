@@ -4,7 +4,7 @@ layout: default
 
 ### List of Publications (newest first)
 
-<ul>
+<ul class="papers">
 
   <li>
     On Access Control Encryption without Sanitization<br>
