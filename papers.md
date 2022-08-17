@@ -22,11 +22,11 @@ layout: default
   
  - Cecilia Boschini, Jan Camenisch, Gregory Neven.
    <i> Floppy-Sized Group Signatures from Lattices. </i>
-   ACNS 2018 (<a href="https://eprint.iacr.org/2018/453.pdf"> ePrint </a>)
+   ACNS 2018 ([ePrint](https://eprint.iacr.org/2018/453.pdf))
   
  - Cecilia Boschini, Jan Camenisch, Gregory Neven.
    <i> Relaxed Lattice-Based Signatures with Short Zero-Knowledge Proofs. </i>
-   ISC 2018 (<a href="https://eprint.iacr.org/2017/1123.pdf"> ePrint </a>)
+   ISC 2018 ([ePrint](https://eprint.iacr.org/2017/1123.pdf))
   
  - Cecilia Boschini, Emmanuela Orsini, Carlo Traverso.
   <i> Betweeen Codes and Lattices: Hybrid lattices and the NTWO cryptosystem. </i>
