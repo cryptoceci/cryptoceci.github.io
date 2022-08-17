@@ -4,9 +4,6 @@ layout: default
 
 ### List of Publications (newest first)
 
-<p id="paper"> title </p>
-<p id="authors"> authors </p>
-
 <ul class="papers">
 
   <li>
