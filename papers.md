@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### List of Publications (newest first)
+### Conference Papers
 
 - Cecilia Boschini, Ivan Damgård, Claudio Orlandi.
   <i> On Access Control Encryption without Sanitization.</i>
