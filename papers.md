@@ -34,10 +34,10 @@ layout: default
   
 ### PhD Thesis
 
-- Cecilia Boschini. Lattice-based Protocols for Privacy. PhD thesis, Lugano, 2020 ([link](https://susi.usi.ch/usi/documents/319176)).
+- Cecilia Boschini. <i> Lattice-based Protocols for Privacy. </i> PhD thesis, Lugano, 2020 ([link](https://susi.usi.ch/usi/documents/319176)).
 
 ### Patents
-- Cecilia Boschini, Jan L. Camenisch, Tommaso Gagliardoni, Kai W. Samelin. Securing Mobile Device by RAM-encryption.<br>
+- Cecilia Boschini, Jan L. Camenisch, Tommaso Gagliardoni, Kai W. Samelin. <i> Securing Mobile Device by RAM-encryption. </i><br>
   [US patent n. US20200235919A1](https://patentscope.wipo.int/search/en/detail.jsf?docId=US300133020&_cid=P12-L6XIN8-56116-1),
   International Business Machines Corp., July 2020.
 
