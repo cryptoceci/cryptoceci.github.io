@@ -32,4 +32,13 @@ layout: default
   <i> Betweeen Codes and Lattices: Hybrid lattices and the NTWO cryptosystem. </i>
    MEGA 2015 ([full version](https://cseao.github.io/papr/MEGA2015.pdf))
   
+### PhD Thesis
+
+- C. Boschini. Lattice-based Protocols for Privacy. PhD thesis, Lugano, 2020 ([link](https://susi.usi.ch/usi/documents/319176)).
+
+### Patents
+- Cecilia Boschini, Jan L. Camenisch, Tommaso Gagliardoni, Kai W. Samelin. Securing Mobile Device by RAM-encryption.<br>
+  [US patent n. US20200235919A1](https://patentscope.wipo.int/search/en/detail.jsf?docId=US300133020&_cid=P12-L6XIN8-56116-1),
+  International Business Machines Corp., July 2020.
+
 [back](./biblio.html)
