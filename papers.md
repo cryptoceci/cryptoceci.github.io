@@ -2,20 +2,52 @@
 layout: default
 ---
 
-### List of Pubblications (newest first)
+### List of Publications (newest first)
 
-Cecilia Boschini, Ivan Damgård, Claudio Orlandi. On Access Control Encryption without Sanitization. SCN 2022. [ePrint](https://eprint.iacr.org/2022/854.pdf)
+<ul>
 
-Cecilia Boschini, Akira Takahashi, Mehdi Tibouchi. MuSig-L: Lattice-Based Multi-Signature With Single-Round Online Phase. CRYPTO 2022. [ePrint](https://eprint.iacr.org/2022/1036.pdf)
+  <li>
+    On Access Control Encryption without Sanitization<br>
+    C. Boschini, I. Damgård, C. Orlandi <br>
+    SCN 2022 [ePrint](https://eprint.iacr.org/2022/854.pdf)
+  </li>
 
-Cecilia Boschini, Dario Fiore, Elena Pagnin. Progressive and Efficient Verification for Digital Signatures. ACNS 2022. [ePrint](https://eprint.iacr.org/2021/832.pdf)
-
-Cecilia Boschini, Jan Camenisch, Max Ovsiankin, Nicholas Spooner. Efficient Post-quantum SNARKs for RSIS and RLWE and Their Applications to Privacy. PQCrypto 2020. [ePrint](https://eprint.iacr.org/2020/1190.pdf)
-
-Cecilia Boschini, Jan Camenisch, Gregory Neven. Floppy-Sized Group Signatures from Lattices. ACNS 2018. [ePrint](https://eprint.iacr.org/2018/453.pdf)
-
-Cecilia Boschini, Jan Camenisch, Gregory Neven. Relaxed Lattice-Based Signatures with Short Zero-Knowledge Proofs. ISC 2018. [ePrint](https://eprint.iacr.org/2017/1123.pdf)
-
-Cecilia Boschini, Emmanuela Orsini, Carlo Traverso. Betweeen Codes and Lattices: Hybrid lattices and the NTWO cryptosystem. MEGA 2015 [full version](https://cseao.github.io/papr/MEGA2015.pdf)
+  <li>
+    MuSig-L: Lattice-Based Multi-Signature With Single-Round Online Phase <br>
+    C. Boschini, A. Takahashi, M. Tibouchi <br>
+    CRYPTO 2022 [ePrint](https://eprint.iacr.org/2022/1036.pdf)
+  </li>
+  
+  <li>
+    Progressive and Efficient Verification for Digital Signatures <br>
+    C. Boschini, D. Fiore, E. Pagnin <br>
+    ACNS 2022 [ePrint](https://eprint.iacr.org/2021/832.pdf)
+  </li>
+  
+  <li>
+    Efficient Post-quantum SNARKs for RSIS and RLWE and Their Applications to Privacy <br>
+    C. Boschini, J. Camenisch, M. Ovsiankin, N. Spooner <br>
+    PQCrypto 2020 [ePrint](https://eprint.iacr.org/2020/1190.pdf)
+  </li>
+  
+  <li>
+    Floppy-Sized Group Signatures from Lattices <br>
+    C. Boschini, J. Camenisch, G. Neven <br>
+    ACNS 2018 [ePrint](https://eprint.iacr.org/2018/453.pdf)
+  </li>
+  
+  <li>
+    Relaxed Lattice-Based Signatures with Short Zero-Knowledge Proofs <br>
+    C. Boschini, J. Camenisch, G. Neven <br>
+    ISC 2018 [ePrint](https://eprint.iacr.org/2017/1123.pdf)
+  </li>
+  
+  <li>
+    Betweeen Codes and Lattices: Hybrid lattices and the NTWO cryptosystem <br>
+    C. Boschini, E. Orsini, C. Traverso <br>
+    MEGA 2015 [full version](https://cseao.github.io/papr/MEGA2015.pdf)
+  </li>
+ 
+</ul>
 
 [back](./biblio.html)
