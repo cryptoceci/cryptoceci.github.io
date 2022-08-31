@@ -6,19 +6,19 @@ layout: default
 
 - Cecilia Boschini, Ivan Damgård, Claudio Orlandi.
   <i> On Access Control Encryption without Sanitization.</i>
-  SCN 2022 ([ePrint](https://eprint.iacr.org/2022/854.pdf))
+  SCN 2022 ([ePrint](https://eprint.iacr.org/2022/854.pdf), talk)
   
 - Cecilia Boschini, Akira Takahashi, Mehdi Tibouchi.
   <i> MuSig-L: Lattice-Based Multi-Signature With Single-Round Online Phase. </i>
-  CRYPTO 2022  ([ePrint](https://eprint.iacr.org/2022/1036.pdf))
+  CRYPTO 2022  ([ePrint](https://eprint.iacr.org/2022/1036.pdf), [talk](https://www.youtube.com/watch?v=71uIOejj-Rc))
   
 - Cecilia Boschini, Dario Fiore, Elena Pagnin.
   <i> Progressive and Efficient Verification for Digital Signatures.</i>
-  ACNS 2022 ([ePrint](https://eprint.iacr.org/2021/832.pdf))
+  ACNS 2022 ([ePrint](https://eprint.iacr.org/2021/832.pdf), [talk](https://www.youtube.com/watch?v=L1USfpbSvgo))
   
  - Cecilia Boschini, Jan Camenisch, Max Ovsiankin, Nicholas Spooner.
    <i> Efficient Post-quantum SNARKs for RSIS and RLWE and Their Applications to Privacy. </i>
-   PQCrypto 2020 ([ePrint](https://eprint.iacr.org/2020/1190.pdf))
+   PQCrypto 2020 ([ePrint](https://eprint.iacr.org/2020/1190.pdf), [talk](https://www.youtube.com/watch?v=05nET87n460))
   
  - Cecilia Boschini, Jan Camenisch, Gregory Neven.
    <i> Floppy-Sized Group Signatures from Lattices. </i>
