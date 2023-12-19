@@ -4,6 +4,10 @@ layout: default
 
 ### Conference Papers
 
+- Cecilia Boschini, Hila Dahari, Moni Naor, Eyal Ronen.
+  <i> That's not my signature! Fail-stop signature for a post-quantum world. </i>
+  ePrint 2023 ([ePrint](https://eprint.iacr.org/2023/1754.pdf))
+
 - Cecilia Boschini, Ivan Damgård, Claudio Orlandi.
   <i> On Access Control Encryption without Sanitization.</i>
   SCN 2022 ([ePrint](https://eprint.iacr.org/2022/854.pdf), [slides](https://scn.unisa.it/scn22/wp-content/uploads/2022/09/boschini.pdf))
