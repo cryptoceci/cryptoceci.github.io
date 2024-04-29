@@ -19,7 +19,7 @@ I co-wrote a book about Discrete Math! It includes the basics needed in CS: set 
 
 - I love designing signatures with fancy features, but they can be very confusing! If you need a high level overview, check out [this post](https://cqi.inf.usi.ch/blog/four.html).
 
-### REWIEWING EXPERIENCE
+### Reviewing Experience
 
 I have reviewed papers for a bunch of conferences and journals:
 
