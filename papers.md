@@ -6,7 +6,7 @@ layout: default
 
 - Cecilia Boschini, Hila Dahari, Moni Naor, Eyal Ronen.
   <i> That's not my signature! Fail-stop signature for a post-quantum world. </i>
-  ePrint 2023 ([ePrint](https://eprint.iacr.org/2023/1754.pdf))
+  CRYPTO 2024 ([ePrint](https://eprint.iacr.org/2023/1754.pdf))
 
 - Cecilia Boschini, Ivan Damgård, Claudio Orlandi.
   <i> On Access Control Encryption without Sanitization.</i>
