@@ -12,10 +12,14 @@ layout: default
   <i> That's not my signature! Fail-stop signature for a post-quantum world. </i>
   CRYPTO 2024 ([ePrint](https://eprint.iacr.org/2023/1754.pdf))
 
+- Cecilia Boschini, Dario Fiore, Elena Pagnin, Luca Torresetti, Andrea Visconti.
+  <i> Progressive and Efficient Verification for Digital Signatures: Extensions and Experimental Results </i>
+  Journal of Cryptographic Engineering, 2024 ([journal](https://link.springer.com/article/10.1007/s13389-024-00358-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240805&utm_content=10.1007/s13389-024-00358-0))
+
 - Cecilia Boschini, Ivan Damgård, Claudio Orlandi.
   <i> On Access Control Encryption without Sanitization.</i>
   SCN 2022 ([ePrint](https://eprint.iacr.org/2022/854.pdf), [slides](https://scn.unisa.it/scn22/wp-content/uploads/2022/09/boschini.pdf))
-  
+
 - Cecilia Boschini, Akira Takahashi, Mehdi Tibouchi.
   <i> MuSig-L: Lattice-Based Multi-Signature With Single-Round Online Phase. </i>
   CRYPTO 2022  ([ePrint](https://eprint.iacr.org/2022/1036.pdf), [talk](https://www.youtube.com/watch?v=71uIOejj-Rc))
