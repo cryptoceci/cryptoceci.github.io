@@ -6,7 +6,7 @@ layout: default
 
 - Cecilia Boschini, Darya Kaviani, Russell W. F. Lai, Giulio Malavolta, Akira Takahashi, Mehdi Tibouchi.
   <i> Ringtail: Practical Two-Round Threshold Signatures from Learning with Errors. </i>
-  EPRINT 2024 ([ePrint](https://eprint.iacr.org/2024/1113.pdf))
+  IEEE S&P 2025 ([ePrint](https://eprint.iacr.org/2024/1113.pdf))
 
 - Cecilia Boschini, Hila Dahari, Moni Naor, Eyal Ronen.
   <i> That's not my signature! Fail-stop signature for a post-quantum world. </i>
