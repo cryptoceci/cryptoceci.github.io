@@ -13,8 +13,6 @@ This includes (but is not limited to) lattice-based privacy-preserving signature
 
 I am also interested in the analysis and formalization of new assumptions and models, that is, on the foundational work that allows to analyze the new esoteric assumptions usually required to speed up existing constructions based on standard assumptions.
 
-You can find an overview of my scientific and divulgative output [here](./biblio.html).
-
 ###### keywords: lattice-based cryptography, access control encryption, group / ring / threshold signatures.
 
 ### Scientific Output
