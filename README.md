@@ -38,11 +38,11 @@ I co-wrote a book about Discrete Math! It includes the basics needed in CS: set 
 
 I have reviewed papers for a bunch of conferences and journals:
 
-- PC member: CCS 2018 ([poster session](https://www.sigsac.org/ccs/CCS2018/cfposters/)), [PQCifris 2022](https://sites.google.com/unitn.it/pqcifris2022/), [SEC@SAC 2023](https://www.dmi.unict.it/giamp/sac/cfp2023.php), [SEC@SAC 2024](https://www.dmi.unict.it/giamp/sac/cfp2024.php), ISC 2024, [TAC 2024](https://aleph.fbk.eu/events/TAC2024/).
+- PC member: CCS 2018 ([poster session](https://www.sigsac.org/ccs/CCS2018/cfposters/)), [PQCifris 2022](https://sites.google.com/unitn.it/pqcifris2022/), [SEC@SAC 2023](https://www.dmi.unict.it/giamp/sac/cfp2023.php), [SEC@SAC 2024](https://www.dmi.unict.it/giamp/sac/cfp2024.php), ISC 2024, [TAC 2024](https://aleph.fbk.eu/events/TAC2024/), ACM-SAC 2025, EUROCRYPT 2026.
 
-- Sub-reviewer: EUROCRYPT 2015, ISIT 2016, CANS 2017, ESORICS 2017, ISIT 2017, PKC 2017, SAC 2017, PQCrypto 2018, ACNS 2018, ASIACRYPT 2018, ESORICS 2018, TCC 2018, CRYPTO 2019, PQCrypto 2019, CT-RSA 2020, ISIT 2020, CRYPTO 2021,  ISIT 2021, EUROCRYPT 2022, PQCrypto 2022, EUROCRYPT 2023, PKC 2023, CRYPTO 2024, ASIACRYPT 2024.
+- Sub-reviewer: ACNS 2018, ASIACRYPT (2018, 2024), CANS 2017, CRYPTO (2019, 2021, 2024, 2025, 2026), CT-RSA 2020, EUROCRYPT (2015, 2022, 2023, 2024, 2025), ESORICS (2017, 2018), ISIT (2016, 2017, 2020, 2021), PKC (2017, 2023), PQCrypto (2018, 2019, 2022), SAC 2017, TCC 2018
 
-- Journals reviews: IEEE – Transactions on Information Theory, DCC journal, Theoretical Computer Science journal, journal of Advances in Mathematics of Communications (AMS), Information Processing Letters (IPL), The Computer Journal.
+- Journals reviews: IEEE – Transactions on Information Theory, DCC journal, Theoretical Computer Science journal, journal of Advances in Mathematics of Communications (AMS), Information Processing Letters (IPL), The Computer Journal, TIFS journal.
 
 [back](./)
 
