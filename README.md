@@ -17,10 +17,6 @@ You can find an overview of my scientific and divulgative output [here](./biblio
 
 ###### keywords: lattice-based cryptography, access control encryption, group / ring / threshold signatures.
 
----
-layout: default
----
-
 ### Scientific Output
 
 You can find a list of my publications [here](./papers.html).
