@@ -4,6 +4,10 @@ layout: default
 
 ### Conference Papers
 
+- Karen Azari, Cecilia Boschini, .
+  <i> Security Amplification of Threshold Signatures in the Standard Model. </i>
+  TCC 2025 ([ePrint](https://eprint.iacr.org/2025/1705.pdf), [slides](https://iacr.org/submit/files/slides/2025/tcc/tcc2025/233/233_slides.pdf))
+
 - Cecilia Boschini, Darya Kaviani, Russell W. F. Lai, Giulio Malavolta, Akira Takahashi, Mehdi Tibouchi.
   <i> Ringtail: Practical Two-Round Threshold Signatures from Learning with Errors. </i>
   IEEE S&P 2025 ([ePrint](https://eprint.iacr.org/2024/1113.pdf))
