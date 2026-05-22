@@ -14,7 +14,7 @@ layout: default
 
 - Cecilia Boschini, Hila Dahari, Moni Naor, Eyal Ronen.
   <i> That's not my signature! Fail-stop signature for a post-quantum world. </i>
-  CRYPTO 2024 ([ePrint](https://eprint.iacr.org/2023/1754.pdf))
+  CRYPTO 2024 ([ePrint](https://eprint.iacr.org/2023/1754.pdf), [slides of invited talk at NIST workshop](https://csrc.nist.gov/csrc/media/presentations/2025/that-s-not-my-signature/thats_not_my_signature-boschini_1.8.pdf))
 
 - Cecilia Boschini, Dario Fiore, Elena Pagnin, Luca Torresetti, Andrea Visconti.
   <i> Progressive and Efficient Verification for Digital Signatures: Extensions and Experimental Results </i>
