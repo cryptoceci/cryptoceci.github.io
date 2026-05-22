@@ -4,7 +4,7 @@ I am a Senior Research Assistant (Oberassistentin) in the group of Prof. Dennis 
 <!--Yuval Ishai (Technion, IL), and I am part of the <a href="https://www.factcenter.org/">FACT center</a> led by Prof. Elette Boyle (Reichman university, IL).-->
 
 Previously, I spent many years between [IBM Research - Zurich](https://www.zurich.ibm.com/) and the the [CQI group](https://cqi.inf.usi.ch/index.php) led by the incomparable Prof. Stefan Wolf at the Università della Svizzera Italiana (CH), where I completed my PhD under the supervision of Dr. Jan Camenisch and Prof. Stefan Wolf.
-I also spent one year as a PostDoc between the [Technion](https://www.cs.technion.ac.il/) and [Reichman University](https://www.runi.ac.il/en/), where I was thanks to the [SNSF Postdoc.mobility grant n. 203075](https://data.snf.ch/grants/grant/203075).
+I also spent one year as a PostDoc between the [Technion](https://www.cs.technion.ac.il/) and [Reichman University](https://www.runi.ac.il/en/) supported by the [SNSF Postdoc.mobility grant n. 203075](https://data.snf.ch/grants/grant/203075).
 
 ### Research interests
 
