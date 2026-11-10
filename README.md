@@ -24,6 +24,10 @@ I co-wrote a book about Discrete Math! It includes the basics needed in CS: set 
 
 - C. Boschini, A. Hansen, S. Wolf. <i> Discrete Mathematics.</i> Verlag der Fachvereine (VdF), Zurich, 2022 ([link](https://vdf.ch/discrete-mathematics-e-book.html)).
 
+### Teaching
+
+- Advanced Encryption Schemes (Lattice part) at ETH Zurich, Fall semester 2026
+
 ### Divulgative Writing/Talks
 
 - Are you fed up with WhatsApp, but cannot decide between Signal and Telegram? I wrote a security comparison for non-experts to help you out! You can find it [here](https://cqi.inf.usi.ch/publications/telegram_vs_signal.pdf?_gl=1*1rjmplt*_ga*MjA1MDgyOTM4Ni4xNjI2Mjc1NTUw*_ga_89Y0EEKVWP*MTYyNjI3NTU0OS4xLjEuMTYyNjI3NjA5Ny42MA..).
